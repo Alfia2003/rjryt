@@ -1,11 +1,11 @@
 
 import "./assets/css/style.css";
-import Download from "./components/Download";
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
-import Provides from "./components/Provides";
-import Services from "./components/Services";
+import Download from "./components/landingPage/Download";
+import Footer from "./components/landingPage/Footer";
+import Hero from "./components/landingPage/Hero";
+import Navbar from "./components/landingPage/Navbar";
+import Provides from "./components/landingPage/Provides";
+import Services from "./components/landingPage/Services";
 
 function App() {
   return (
